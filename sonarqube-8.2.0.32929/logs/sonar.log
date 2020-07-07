@@ -1,0 +1,1187 @@
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Unable to execute Java command.  O sistema não pode encontrar o arquivo especificado. (0x2)
+    "java" -Dsonar.wrapped=true -Djava.awt.headless=true -Xms8m -Xmx32m -Djava.library.path="./lib" -classpath "../../lib/jsw/wrapper-3.2.3.jar;../../lib/common/activation-1.1.jar;../../lib/common/animal-sniffer-annotations-1.18.jar;../../lib/common/checker-qual-2.8.1.jar;../../lib/common/commons-codec-1.12.jar;../../lib/common/commons-csv-1.7.jar;../../lib/common/commons-dbcp2-2.7.0.jar;../../lib/common/commons-dbutils-1.5.jar;../../lib/common/commons-email-1.5.jar;../../lib/common/commons-io-2.6.jar;../../lib/common/commons-lang-2.6.jar;../../lib/common/commons-lang3-3.4.jar;../../lib/common/commons-logging-1.2.jar;../../lib/common/commons-pool2-2.7.0.jar;../../lib/common/core-3.1.0.jar;../../lib/common/diffutils-1.2.jar;../../lib/common/elasticsearch-6.8.4.jar;../../lib/common/elasticsearch-cli-6.8.4.jar;../../lib/common/elasticsearch-core-6.8.4.jar;../../lib/common/elasticsearch-secure-sm-6.8.4.jar;../../lib/common/elasticsearch-x-content-6.8.4.jar;../../lib/common/error_prone_annotations-2.3.2.jar;../../lib/common/failureaccess-1.0.1.jar;../../lib/common/gson-2.8.5.jar;../../lib/common/guava-28.1-jre.jar;../../lib/common/hazelcast-3.12.3.jar;../../lib/common/HdrHistogram-2.1.9.jar;../../lib/common/hppc-0.7.1.jar;../../lib/common/httpclient-4.5.10.jar;../../lib/common/httpcore-4.4.12.jar;../../lib/common/j2objc-annotations-1.3.jar;../../lib/common/jackson-annotations-2.10.1.jar;../../lib/common/jackson-core-2.10.1.jar;../../lib/common/jackson-databind-2.10.1.jar;../../lib/common/jackson-dataformat-cbor-2.8.11.jar;../../lib/common/jackson-dataformat-smile-2.8.11.jar;../../lib/common/jackson-dataformat-yaml-2.8.11.jar;../../lib/common/java-saml-2.5.0.jar;../../lib/common/java-saml-core-2.5.0.jar;../../lib/common/javax.mail-1.5.6.jar;../../lib/common/jbcrypt-0.4.jar;../../lib/common/jjwt-api-0.10.7.jar;../../lib/common/jjwt-impl-0.10.7.jar;../../lib/common/jjwt-jackson-0.10.7.jar;../../lib/common/jna-4.5.1.jar;../../lib/common/joda-time-2.10.3.jar;../../lib/common/jopt-simple-5.0.2.jar;../../lib/common/jsr305-3.0.2.jar;../../lib/common/jul-to-slf4j-1.7.28.jar;../../lib/common/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;../../lib/common/log4j-api-2.8.2.jar;../../lib/common/log4j-to-slf4j-2.8.2.jar;../../lib/common/logback-access-1.2.3.jar;../../lib/common/logback-classic-1.2.3.jar;../../lib/common/logback-core-1.2.3.jar;../../lib/common/lucene-analyzers-common-7.7.2.jar;../../lib/common/lucene-backward-codecs-7.7.2.jar;../../lib/common/lucene-core-7.7.2.jar;../../lib/common/lucene-grouping-7.7.2.jar;../../lib/common/lucene-highlighter-7.7.2.jar;../../lib/common/lucene-join-7.7.2.jar;../../lib/common/lucene-memory-7.7.2.jar;../../lib/common/lucene-misc-7.7.2.jar;../../lib/common/lucene-queries-7.7.2.jar;../../lib/common/lucene-queryparser-7.7.2.jar;../../lib/common/lucene-sandbox-7.7.2.jar;../../lib/common/lucene-spatial-7.7.2.jar;../../lib/common/lucene-spatial-extras-7.7.2.jar;../../lib/common/lucene-spatial3d-7.7.2.jar;../../lib/common/lucene-suggest-7.7.2.jar;../../lib/common/lz4-1.3.0.jar;../../lib/common/mybatis-3.5.3.jar;../../lib/common/nanohttpd-2.3.0.jar;../../lib/common/netty-buffer-4.1.32.Final.jar;../../lib/common/netty-codec-4.1.32.Final.jar;../../lib/common/netty-codec-http-4.1.32.Final.jar;../../lib/common/netty-common-4.1.32.Final.jar;../../lib/common/netty-handler-4.1.32.Final.jar;../../lib/common/netty-resolver-4.1.32.Final.jar;../../lib/common/netty-transport-4.1.32.Final.jar;../../lib/common/okhttp-3.14.2.jar;../../lib/common/okio-1.17.2.jar;../../lib/common/parent-join-client-6.8.4.jar;../../lib/common/percolator-client-6.8.4.jar;../../lib/common/picocontainer-2.15.jar;../../lib/common/protobuf-java-3.10.0.jar;../../lib/common/scribejava-apis-6.8.1.jar;../../lib/common/scribejava-core-6.8.1.jar;../../lib/common/slf4j-api-1.7.28.jar;../../lib/common/snakeyaml-1.25.jar;../../lib/common/sonar-auth-common-8.2.0.32929.jar;../../lib/common/sonar-auth-github-8.2.0.32929.jar;../../lib/common/sonar-auth-gitlab-8.2.0.32929.jar;../../lib/common/sonar-auth-ldap-8.2.0.32929.jar;../../lib/common/sonar-auth-saml-8.2.0.32929.jar;../../lib/common/sonar-ce-8.2.0.32929.jar;../../lib/common/sonar-ce-common-8.2.0.32929.jar;../../lib/common/sonar-ce-task-8.2.0.32929.jar;../../lib/common/sonar-ce-task-projectanalysis-8.2.0.32929.jar;../../lib/common/sonar-channel-4.1.jar;../../lib/common/sonar-classloader-1.0.jar;../../lib/common/sonar-core-8.2.0.32929.jar;../../lib/common/sonar-db-core-8.2.0.32929.jar;../../lib/common/sonar-db-dao-8.2.0.32929.jar;../../lib/common/sonar-db-migration-8.2.0.32929.jar;../../lib/common/sonar-duplications-8.2.0.32929.jar;../../lib/common/sonar-main-8.2.0.32929.jar;../../lib/common/sonar-markdown-8.2.0.32929.jar;../../lib/common/sonar-plugin-api-8.2.0.32929-all.jar;../../lib/common/sonar-plugin-api-impl-8.2.0.32929.jar;../../lib/common/sonar-process-8.2.0.32929.jar;../../lib/common/sonar-scanner-protocol-8.2.0.32929.jar;../../lib/common/sonar-server-common-8.2.0.32929.jar;../../lib/common/sonar-update-center-common-1.23.0.723.jar;../../lib/common/sonar-webserver-8.2.0.32929.jar;../../lib/common/sonar-webserver-api-8.2.0.32929.jar;../../lib/common/sonar-webserver-auth-8.2.0.32929.jar;../../lib/common/sonar-webserver-core-8.2.0.32929.jar;../../lib/common/sonar-webserver-es-8.2.0.32929.jar;../../lib/common/sonar-webserver-webapi-8.2.0.32929.jar;../../lib/common/sonar-webserver-ws-8.2.0.32929.jar;../../lib/common/sonar-ws-8.2.0.32929.jar;../../lib/common/stax2-api-3.1.4.jar;../../lib/common/staxmate-2.0.1.jar;../../lib/common/t-digest-3.2.jar;../../lib/common/tomcat-annotations-api-8.5.41.jar;../../lib/common/tomcat-embed-core-8.5.41.jar;../../lib/common/transport-6.8.4.jar;../../lib/common/transport-netty4-client-6.8.4.jar;../../lib/common/woodstox-core-5.0.3.jar;../../lib/common/woodstox-core-lgpl-4.4.0.jar;../../lib/common/xmlsec-2.1.4.jar;../../lib/sonar-application-8.2.0.32929.jar;../../lib/sonar-shutdowner-8.2.0.32929.jar" -Dwrapper.key="zZtw7Ipmtg0svt_x" -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=5456 -Dwrapper.version="3.2.3" -Dwrapper.native_library="wrapper" -Dwrapper.cpu.timeout="10" -Dwrapper.jvmid=1 org.tanukisoftware.wrapper.WrapperSimpleApp org.sonar.application.App
+Critical error: wait for JVM process failed
+--> Wrapper Started as Console
+Launching a JVM...
+Unable to execute Java command.  O sistema não pode encontrar o arquivo especificado. (0x2)
+    "java" -Dsonar.wrapped=true -Djava.awt.headless=true -Xms8m -Xmx32m -Djava.library.path="./lib" -classpath "../../lib/jsw/wrapper-3.2.3.jar;../../lib/common/activation-1.1.jar;../../lib/common/animal-sniffer-annotations-1.18.jar;../../lib/common/checker-qual-2.8.1.jar;../../lib/common/commons-codec-1.12.jar;../../lib/common/commons-csv-1.7.jar;../../lib/common/commons-dbcp2-2.7.0.jar;../../lib/common/commons-dbutils-1.5.jar;../../lib/common/commons-email-1.5.jar;../../lib/common/commons-io-2.6.jar;../../lib/common/commons-lang-2.6.jar;../../lib/common/commons-lang3-3.4.jar;../../lib/common/commons-logging-1.2.jar;../../lib/common/commons-pool2-2.7.0.jar;../../lib/common/core-3.1.0.jar;../../lib/common/diffutils-1.2.jar;../../lib/common/elasticsearch-6.8.4.jar;../../lib/common/elasticsearch-cli-6.8.4.jar;../../lib/common/elasticsearch-core-6.8.4.jar;../../lib/common/elasticsearch-secure-sm-6.8.4.jar;../../lib/common/elasticsearch-x-content-6.8.4.jar;../../lib/common/error_prone_annotations-2.3.2.jar;../../lib/common/failureaccess-1.0.1.jar;../../lib/common/gson-2.8.5.jar;../../lib/common/guava-28.1-jre.jar;../../lib/common/hazelcast-3.12.3.jar;../../lib/common/HdrHistogram-2.1.9.jar;../../lib/common/hppc-0.7.1.jar;../../lib/common/httpclient-4.5.10.jar;../../lib/common/httpcore-4.4.12.jar;../../lib/common/j2objc-annotations-1.3.jar;../../lib/common/jackson-annotations-2.10.1.jar;../../lib/common/jackson-core-2.10.1.jar;../../lib/common/jackson-databind-2.10.1.jar;../../lib/common/jackson-dataformat-cbor-2.8.11.jar;../../lib/common/jackson-dataformat-smile-2.8.11.jar;../../lib/common/jackson-dataformat-yaml-2.8.11.jar;../../lib/common/java-saml-2.5.0.jar;../../lib/common/java-saml-core-2.5.0.jar;../../lib/common/javax.mail-1.5.6.jar;../../lib/common/jbcrypt-0.4.jar;../../lib/common/jjwt-api-0.10.7.jar;../../lib/common/jjwt-impl-0.10.7.jar;../../lib/common/jjwt-jackson-0.10.7.jar;../../lib/common/jna-4.5.1.jar;../../lib/common/joda-time-2.10.3.jar;../../lib/common/jopt-simple-5.0.2.jar;../../lib/common/jsr305-3.0.2.jar;../../lib/common/jul-to-slf4j-1.7.28.jar;../../lib/common/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;../../lib/common/log4j-api-2.8.2.jar;../../lib/common/log4j-to-slf4j-2.8.2.jar;../../lib/common/logback-access-1.2.3.jar;../../lib/common/logback-classic-1.2.3.jar;../../lib/common/logback-core-1.2.3.jar;../../lib/common/lucene-analyzers-common-7.7.2.jar;../../lib/common/lucene-backward-codecs-7.7.2.jar;../../lib/common/lucene-core-7.7.2.jar;../../lib/common/lucene-grouping-7.7.2.jar;../../lib/common/lucene-highlighter-7.7.2.jar;../../lib/common/lucene-join-7.7.2.jar;../../lib/common/lucene-memory-7.7.2.jar;../../lib/common/lucene-misc-7.7.2.jar;../../lib/common/lucene-queries-7.7.2.jar;../../lib/common/lucene-queryparser-7.7.2.jar;../../lib/common/lucene-sandbox-7.7.2.jar;../../lib/common/lucene-spatial-7.7.2.jar;../../lib/common/lucene-spatial-extras-7.7.2.jar;../../lib/common/lucene-spatial3d-7.7.2.jar;../../lib/common/lucene-suggest-7.7.2.jar;../../lib/common/lz4-1.3.0.jar;../../lib/common/mybatis-3.5.3.jar;../../lib/common/nanohttpd-2.3.0.jar;../../lib/common/netty-buffer-4.1.32.Final.jar;../../lib/common/netty-codec-4.1.32.Final.jar;../../lib/common/netty-codec-http-4.1.32.Final.jar;../../lib/common/netty-common-4.1.32.Final.jar;../../lib/common/netty-handler-4.1.32.Final.jar;../../lib/common/netty-resolver-4.1.32.Final.jar;../../lib/common/netty-transport-4.1.32.Final.jar;../../lib/common/okhttp-3.14.2.jar;../../lib/common/okio-1.17.2.jar;../../lib/common/parent-join-client-6.8.4.jar;../../lib/common/percolator-client-6.8.4.jar;../../lib/common/picocontainer-2.15.jar;../../lib/common/protobuf-java-3.10.0.jar;../../lib/common/scribejava-apis-6.8.1.jar;../../lib/common/scribejava-core-6.8.1.jar;../../lib/common/slf4j-api-1.7.28.jar;../../lib/common/snakeyaml-1.25.jar;../../lib/common/sonar-auth-common-8.2.0.32929.jar;../../lib/common/sonar-auth-github-8.2.0.32929.jar;../../lib/common/sonar-auth-gitlab-8.2.0.32929.jar;../../lib/common/sonar-auth-ldap-8.2.0.32929.jar;../../lib/common/sonar-auth-saml-8.2.0.32929.jar;../../lib/common/sonar-ce-8.2.0.32929.jar;../../lib/common/sonar-ce-common-8.2.0.32929.jar;../../lib/common/sonar-ce-task-8.2.0.32929.jar;../../lib/common/sonar-ce-task-projectanalysis-8.2.0.32929.jar;../../lib/common/sonar-channel-4.1.jar;../../lib/common/sonar-classloader-1.0.jar;../../lib/common/sonar-core-8.2.0.32929.jar;../../lib/common/sonar-db-core-8.2.0.32929.jar;../../lib/common/sonar-db-dao-8.2.0.32929.jar;../../lib/common/sonar-db-migration-8.2.0.32929.jar;../../lib/common/sonar-duplications-8.2.0.32929.jar;../../lib/common/sonar-main-8.2.0.32929.jar;../../lib/common/sonar-markdown-8.2.0.32929.jar;../../lib/common/sonar-plugin-api-8.2.0.32929-all.jar;../../lib/common/sonar-plugin-api-impl-8.2.0.32929.jar;../../lib/common/sonar-process-8.2.0.32929.jar;../../lib/common/sonar-scanner-protocol-8.2.0.32929.jar;../../lib/common/sonar-server-common-8.2.0.32929.jar;../../lib/common/sonar-update-center-common-1.23.0.723.jar;../../lib/common/sonar-webserver-8.2.0.32929.jar;../../lib/common/sonar-webserver-api-8.2.0.32929.jar;../../lib/common/sonar-webserver-auth-8.2.0.32929.jar;../../lib/common/sonar-webserver-core-8.2.0.32929.jar;../../lib/common/sonar-webserver-es-8.2.0.32929.jar;../../lib/common/sonar-webserver-webapi-8.2.0.32929.jar;../../lib/common/sonar-webserver-ws-8.2.0.32929.jar;../../lib/common/sonar-ws-8.2.0.32929.jar;../../lib/common/stax2-api-3.1.4.jar;../../lib/common/staxmate-2.0.1.jar;../../lib/common/t-digest-3.2.jar;../../lib/common/tomcat-annotations-api-8.5.41.jar;../../lib/common/tomcat-embed-core-8.5.41.jar;../../lib/common/transport-6.8.4.jar;../../lib/common/transport-netty4-client-6.8.4.jar;../../lib/common/woodstox-core-5.0.3.jar;../../lib/common/woodstox-core-lgpl-4.4.0.jar;../../lib/common/xmlsec-2.1.4.jar;../../lib/sonar-application-8.2.0.32929.jar;../../lib/sonar-shutdowner-8.2.0.32929.jar" -Dwrapper.key="HcKMGDe2qdfSDxy0" -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=16448 -Dwrapper.version="3.2.3" -Dwrapper.native_library="wrapper" -Dwrapper.cpu.timeout="10" -Dwrapper.jvmid=1 org.tanukisoftware.wrapper.WrapperSimpleApp org.sonar.application.App
+Critical error: wait for JVM process failed
+OpenSCManager failed - Acesso negado. (0x5)
+--> Wrapper Started as Console
+Launching a JVM...
+Unable to execute Java command.  O sistema não pode encontrar o arquivo especificado. (0x2)
+    "java" -Dsonar.wrapped=true -Djava.awt.headless=true -Xms8m -Xmx32m -Djava.library.path="./lib" -classpath "../../lib/jsw/wrapper-3.2.3.jar;../../lib/common/activation-1.1.jar;../../lib/common/animal-sniffer-annotations-1.18.jar;../../lib/common/checker-qual-2.8.1.jar;../../lib/common/commons-codec-1.12.jar;../../lib/common/commons-csv-1.7.jar;../../lib/common/commons-dbcp2-2.7.0.jar;../../lib/common/commons-dbutils-1.5.jar;../../lib/common/commons-email-1.5.jar;../../lib/common/commons-io-2.6.jar;../../lib/common/commons-lang-2.6.jar;../../lib/common/commons-lang3-3.4.jar;../../lib/common/commons-logging-1.2.jar;../../lib/common/commons-pool2-2.7.0.jar;../../lib/common/core-3.1.0.jar;../../lib/common/diffutils-1.2.jar;../../lib/common/elasticsearch-6.8.4.jar;../../lib/common/elasticsearch-cli-6.8.4.jar;../../lib/common/elasticsearch-core-6.8.4.jar;../../lib/common/elasticsearch-secure-sm-6.8.4.jar;../../lib/common/elasticsearch-x-content-6.8.4.jar;../../lib/common/error_prone_annotations-2.3.2.jar;../../lib/common/failureaccess-1.0.1.jar;../../lib/common/gson-2.8.5.jar;../../lib/common/guava-28.1-jre.jar;../../lib/common/hazelcast-3.12.3.jar;../../lib/common/HdrHistogram-2.1.9.jar;../../lib/common/hppc-0.7.1.jar;../../lib/common/httpclient-4.5.10.jar;../../lib/common/httpcore-4.4.12.jar;../../lib/common/j2objc-annotations-1.3.jar;../../lib/common/jackson-annotations-2.10.1.jar;../../lib/common/jackson-core-2.10.1.jar;../../lib/common/jackson-databind-2.10.1.jar;../../lib/common/jackson-dataformat-cbor-2.8.11.jar;../../lib/common/jackson-dataformat-smile-2.8.11.jar;../../lib/common/jackson-dataformat-yaml-2.8.11.jar;../../lib/common/java-saml-2.5.0.jar;../../lib/common/java-saml-core-2.5.0.jar;../../lib/common/javax.mail-1.5.6.jar;../../lib/common/jbcrypt-0.4.jar;../../lib/common/jjwt-api-0.10.7.jar;../../lib/common/jjwt-impl-0.10.7.jar;../../lib/common/jjwt-jackson-0.10.7.jar;../../lib/common/jna-4.5.1.jar;../../lib/common/joda-time-2.10.3.jar;../../lib/common/jopt-simple-5.0.2.jar;../../lib/common/jsr305-3.0.2.jar;../../lib/common/jul-to-slf4j-1.7.28.jar;../../lib/common/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;../../lib/common/log4j-api-2.8.2.jar;../../lib/common/log4j-to-slf4j-2.8.2.jar;../../lib/common/logback-access-1.2.3.jar;../../lib/common/logback-classic-1.2.3.jar;../../lib/common/logback-core-1.2.3.jar;../../lib/common/lucene-analyzers-common-7.7.2.jar;../../lib/common/lucene-backward-codecs-7.7.2.jar;../../lib/common/lucene-core-7.7.2.jar;../../lib/common/lucene-grouping-7.7.2.jar;../../lib/common/lucene-highlighter-7.7.2.jar;../../lib/common/lucene-join-7.7.2.jar;../../lib/common/lucene-memory-7.7.2.jar;../../lib/common/lucene-misc-7.7.2.jar;../../lib/common/lucene-queries-7.7.2.jar;../../lib/common/lucene-queryparser-7.7.2.jar;../../lib/common/lucene-sandbox-7.7.2.jar;../../lib/common/lucene-spatial-7.7.2.jar;../../lib/common/lucene-spatial-extras-7.7.2.jar;../../lib/common/lucene-spatial3d-7.7.2.jar;../../lib/common/lucene-suggest-7.7.2.jar;../../lib/common/lz4-1.3.0.jar;../../lib/common/mybatis-3.5.3.jar;../../lib/common/nanohttpd-2.3.0.jar;../../lib/common/netty-buffer-4.1.32.Final.jar;../../lib/common/netty-codec-4.1.32.Final.jar;../../lib/common/netty-codec-http-4.1.32.Final.jar;../../lib/common/netty-common-4.1.32.Final.jar;../../lib/common/netty-handler-4.1.32.Final.jar;../../lib/common/netty-resolver-4.1.32.Final.jar;../../lib/common/netty-transport-4.1.32.Final.jar;../../lib/common/okhttp-3.14.2.jar;../../lib/common/okio-1.17.2.jar;../../lib/common/parent-join-client-6.8.4.jar;../../lib/common/percolator-client-6.8.4.jar;../../lib/common/picocontainer-2.15.jar;../../lib/common/protobuf-java-3.10.0.jar;../../lib/common/scribejava-apis-6.8.1.jar;../../lib/common/scribejava-core-6.8.1.jar;../../lib/common/slf4j-api-1.7.28.jar;../../lib/common/snakeyaml-1.25.jar;../../lib/common/sonar-auth-common-8.2.0.32929.jar;../../lib/common/sonar-auth-github-8.2.0.32929.jar;../../lib/common/sonar-auth-gitlab-8.2.0.32929.jar;../../lib/common/sonar-auth-ldap-8.2.0.32929.jar;../../lib/common/sonar-auth-saml-8.2.0.32929.jar;../../lib/common/sonar-ce-8.2.0.32929.jar;../../lib/common/sonar-ce-common-8.2.0.32929.jar;../../lib/common/sonar-ce-task-8.2.0.32929.jar;../../lib/common/sonar-ce-task-projectanalysis-8.2.0.32929.jar;../../lib/common/sonar-channel-4.1.jar;../../lib/common/sonar-classloader-1.0.jar;../../lib/common/sonar-core-8.2.0.32929.jar;../../lib/common/sonar-db-core-8.2.0.32929.jar;../../lib/common/sonar-db-dao-8.2.0.32929.jar;../../lib/common/sonar-db-migration-8.2.0.32929.jar;../../lib/common/sonar-duplications-8.2.0.32929.jar;../../lib/common/sonar-main-8.2.0.32929.jar;../../lib/common/sonar-markdown-8.2.0.32929.jar;../../lib/common/sonar-plugin-api-8.2.0.32929-all.jar;../../lib/common/sonar-plugin-api-impl-8.2.0.32929.jar;../../lib/common/sonar-process-8.2.0.32929.jar;../../lib/common/sonar-scanner-protocol-8.2.0.32929.jar;../../lib/common/sonar-server-common-8.2.0.32929.jar;../../lib/common/sonar-update-center-common-1.23.0.723.jar;../../lib/common/sonar-webserver-8.2.0.32929.jar;../../lib/common/sonar-webserver-api-8.2.0.32929.jar;../../lib/common/sonar-webserver-auth-8.2.0.32929.jar;../../lib/common/sonar-webserver-core-8.2.0.32929.jar;../../lib/common/sonar-webserver-es-8.2.0.32929.jar;../../lib/common/sonar-webserver-webapi-8.2.0.32929.jar;../../lib/common/sonar-webserver-ws-8.2.0.32929.jar;../../lib/common/sonar-ws-8.2.0.32929.jar;../../lib/common/stax2-api-3.1.4.jar;../../lib/common/staxmate-2.0.1.jar;../../lib/common/t-digest-3.2.jar;../../lib/common/tomcat-annotations-api-8.5.41.jar;../../lib/common/tomcat-embed-core-8.5.41.jar;../../lib/common/transport-6.8.4.jar;../../lib/common/transport-netty4-client-6.8.4.jar;../../lib/common/woodstox-core-5.0.3.jar;../../lib/common/woodstox-core-lgpl-4.4.0.jar;../../lib/common/xmlsec-2.1.4.jar;../../lib/sonar-application-8.2.0.32929.jar;../../lib/sonar-shutdowner-8.2.0.32929.jar" -Dwrapper.key="QARqqeRXZQ9N8XnH" -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=10152 -Dwrapper.version="3.2.3" -Dwrapper.native_library="wrapper" -Dwrapper.cpu.timeout="10" -Dwrapper.jvmid=1 org.tanukisoftware.wrapper.WrapperSimpleApp org.sonar.application.App
+Critical error: wait for JVM process failed
+--> Wrapper Started as Console
+Launching a JVM...
+Unable to execute Java command.  O sistema não pode encontrar o arquivo especificado. (0x2)
+    "java" -Dsonar.wrapped=true -Djava.awt.headless=true -Xms8m -Xmx32m -Djava.library.path="./lib" -classpath "../../lib/jsw/wrapper-3.2.3.jar;../../lib/common/activation-1.1.jar;../../lib/common/animal-sniffer-annotations-1.18.jar;../../lib/common/checker-qual-2.8.1.jar;../../lib/common/commons-codec-1.12.jar;../../lib/common/commons-csv-1.7.jar;../../lib/common/commons-dbcp2-2.7.0.jar;../../lib/common/commons-dbutils-1.5.jar;../../lib/common/commons-email-1.5.jar;../../lib/common/commons-io-2.6.jar;../../lib/common/commons-lang-2.6.jar;../../lib/common/commons-lang3-3.4.jar;../../lib/common/commons-logging-1.2.jar;../../lib/common/commons-pool2-2.7.0.jar;../../lib/common/core-3.1.0.jar;../../lib/common/diffutils-1.2.jar;../../lib/common/elasticsearch-6.8.4.jar;../../lib/common/elasticsearch-cli-6.8.4.jar;../../lib/common/elasticsearch-core-6.8.4.jar;../../lib/common/elasticsearch-secure-sm-6.8.4.jar;../../lib/common/elasticsearch-x-content-6.8.4.jar;../../lib/common/error_prone_annotations-2.3.2.jar;../../lib/common/failureaccess-1.0.1.jar;../../lib/common/gson-2.8.5.jar;../../lib/common/guava-28.1-jre.jar;../../lib/common/hazelcast-3.12.3.jar;../../lib/common/HdrHistogram-2.1.9.jar;../../lib/common/hppc-0.7.1.jar;../../lib/common/httpclient-4.5.10.jar;../../lib/common/httpcore-4.4.12.jar;../../lib/common/j2objc-annotations-1.3.jar;../../lib/common/jackson-annotations-2.10.1.jar;../../lib/common/jackson-core-2.10.1.jar;../../lib/common/jackson-databind-2.10.1.jar;../../lib/common/jackson-dataformat-cbor-2.8.11.jar;../../lib/common/jackson-dataformat-smile-2.8.11.jar;../../lib/common/jackson-dataformat-yaml-2.8.11.jar;../../lib/common/java-saml-2.5.0.jar;../../lib/common/java-saml-core-2.5.0.jar;../../lib/common/javax.mail-1.5.6.jar;../../lib/common/jbcrypt-0.4.jar;../../lib/common/jjwt-api-0.10.7.jar;../../lib/common/jjwt-impl-0.10.7.jar;../../lib/common/jjwt-jackson-0.10.7.jar;../../lib/common/jna-4.5.1.jar;../../lib/common/joda-time-2.10.3.jar;../../lib/common/jopt-simple-5.0.2.jar;../../lib/common/jsr305-3.0.2.jar;../../lib/common/jul-to-slf4j-1.7.28.jar;../../lib/common/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;../../lib/common/log4j-api-2.8.2.jar;../../lib/common/log4j-to-slf4j-2.8.2.jar;../../lib/common/logback-access-1.2.3.jar;../../lib/common/logback-classic-1.2.3.jar;../../lib/common/logback-core-1.2.3.jar;../../lib/common/lucene-analyzers-common-7.7.2.jar;../../lib/common/lucene-backward-codecs-7.7.2.jar;../../lib/common/lucene-core-7.7.2.jar;../../lib/common/lucene-grouping-7.7.2.jar;../../lib/common/lucene-highlighter-7.7.2.jar;../../lib/common/lucene-join-7.7.2.jar;../../lib/common/lucene-memory-7.7.2.jar;../../lib/common/lucene-misc-7.7.2.jar;../../lib/common/lucene-queries-7.7.2.jar;../../lib/common/lucene-queryparser-7.7.2.jar;../../lib/common/lucene-sandbox-7.7.2.jar;../../lib/common/lucene-spatial-7.7.2.jar;../../lib/common/lucene-spatial-extras-7.7.2.jar;../../lib/common/lucene-spatial3d-7.7.2.jar;../../lib/common/lucene-suggest-7.7.2.jar;../../lib/common/lz4-1.3.0.jar;../../lib/common/mybatis-3.5.3.jar;../../lib/common/nanohttpd-2.3.0.jar;../../lib/common/netty-buffer-4.1.32.Final.jar;../../lib/common/netty-codec-4.1.32.Final.jar;../../lib/common/netty-codec-http-4.1.32.Final.jar;../../lib/common/netty-common-4.1.32.Final.jar;../../lib/common/netty-handler-4.1.32.Final.jar;../../lib/common/netty-resolver-4.1.32.Final.jar;../../lib/common/netty-transport-4.1.32.Final.jar;../../lib/common/okhttp-3.14.2.jar;../../lib/common/okio-1.17.2.jar;../../lib/common/parent-join-client-6.8.4.jar;../../lib/common/percolator-client-6.8.4.jar;../../lib/common/picocontainer-2.15.jar;../../lib/common/protobuf-java-3.10.0.jar;../../lib/common/scribejava-apis-6.8.1.jar;../../lib/common/scribejava-core-6.8.1.jar;../../lib/common/slf4j-api-1.7.28.jar;../../lib/common/snakeyaml-1.25.jar;../../lib/common/sonar-auth-common-8.2.0.32929.jar;../../lib/common/sonar-auth-github-8.2.0.32929.jar;../../lib/common/sonar-auth-gitlab-8.2.0.32929.jar;../../lib/common/sonar-auth-ldap-8.2.0.32929.jar;../../lib/common/sonar-auth-saml-8.2.0.32929.jar;../../lib/common/sonar-ce-8.2.0.32929.jar;../../lib/common/sonar-ce-common-8.2.0.32929.jar;../../lib/common/sonar-ce-task-8.2.0.32929.jar;../../lib/common/sonar-ce-task-projectanalysis-8.2.0.32929.jar;../../lib/common/sonar-channel-4.1.jar;../../lib/common/sonar-classloader-1.0.jar;../../lib/common/sonar-core-8.2.0.32929.jar;../../lib/common/sonar-db-core-8.2.0.32929.jar;../../lib/common/sonar-db-dao-8.2.0.32929.jar;../../lib/common/sonar-db-migration-8.2.0.32929.jar;../../lib/common/sonar-duplications-8.2.0.32929.jar;../../lib/common/sonar-main-8.2.0.32929.jar;../../lib/common/sonar-markdown-8.2.0.32929.jar;../../lib/common/sonar-plugin-api-8.2.0.32929-all.jar;../../lib/common/sonar-plugin-api-impl-8.2.0.32929.jar;../../lib/common/sonar-process-8.2.0.32929.jar;../../lib/common/sonar-scanner-protocol-8.2.0.32929.jar;../../lib/common/sonar-server-common-8.2.0.32929.jar;../../lib/common/sonar-update-center-common-1.23.0.723.jar;../../lib/common/sonar-webserver-8.2.0.32929.jar;../../lib/common/sonar-webserver-api-8.2.0.32929.jar;../../lib/common/sonar-webserver-auth-8.2.0.32929.jar;../../lib/common/sonar-webserver-core-8.2.0.32929.jar;../../lib/common/sonar-webserver-es-8.2.0.32929.jar;../../lib/common/sonar-webserver-webapi-8.2.0.32929.jar;../../lib/common/sonar-webserver-ws-8.2.0.32929.jar;../../lib/common/sonar-ws-8.2.0.32929.jar;../../lib/common/stax2-api-3.1.4.jar;../../lib/common/staxmate-2.0.1.jar;../../lib/common/t-digest-3.2.jar;../../lib/common/tomcat-annotations-api-8.5.41.jar;../../lib/common/tomcat-embed-core-8.5.41.jar;../../lib/common/transport-6.8.4.jar;../../lib/common/transport-netty4-client-6.8.4.jar;../../lib/common/woodstox-core-5.0.3.jar;../../lib/common/woodstox-core-lgpl-4.4.0.jar;../../lib/common/xmlsec-2.1.4.jar;../../lib/sonar-application-8.2.0.32929.jar;../../lib/sonar-shutdowner-8.2.0.32929.jar" -Dwrapper.key="ZpqZxF_LOBgVWDML" -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=10360 -Dwrapper.version="3.2.3" -Dwrapper.native_library="wrapper" -Dwrapper.cpu.timeout="10" -Dwrapper.jvmid=1 org.tanukisoftware.wrapper.WrapperSimpleApp org.sonar.application.App
+Critical error: wait for JVM process failed
+OpenSCManager failed - Acesso negado. (0x5)
+Starting the SonarQube service...
+Unable to start the service - O sistema não pode encontrar o arquivo especificado. (0x2)
+CreateService failed - O serviço especificado já existe. (0x431)
+OpenSCManager failed - Acesso negado. (0x5)
+--> Wrapper Started as Console
+Launching a JVM...
+Unable to execute Java command.  O sistema não pode encontrar o arquivo especificado. (0x2)
+    "java" -Dsonar.wrapped=true -Djava.awt.headless=true -Xms8m -Xmx32m -Djava.library.path="./lib" -classpath "../../lib/jsw/wrapper-3.2.3.jar;../../lib/common/activation-1.1.jar;../../lib/common/animal-sniffer-annotations-1.18.jar;../../lib/common/checker-qual-2.8.1.jar;../../lib/common/commons-codec-1.12.jar;../../lib/common/commons-csv-1.7.jar;../../lib/common/commons-dbcp2-2.7.0.jar;../../lib/common/commons-dbutils-1.5.jar;../../lib/common/commons-email-1.5.jar;../../lib/common/commons-io-2.6.jar;../../lib/common/commons-lang-2.6.jar;../../lib/common/commons-lang3-3.4.jar;../../lib/common/commons-logging-1.2.jar;../../lib/common/commons-pool2-2.7.0.jar;../../lib/common/core-3.1.0.jar;../../lib/common/diffutils-1.2.jar;../../lib/common/elasticsearch-6.8.4.jar;../../lib/common/elasticsearch-cli-6.8.4.jar;../../lib/common/elasticsearch-core-6.8.4.jar;../../lib/common/elasticsearch-secure-sm-6.8.4.jar;../../lib/common/elasticsearch-x-content-6.8.4.jar;../../lib/common/error_prone_annotations-2.3.2.jar;../../lib/common/failureaccess-1.0.1.jar;../../lib/common/gson-2.8.5.jar;../../lib/common/guava-28.1-jre.jar;../../lib/common/hazelcast-3.12.3.jar;../../lib/common/HdrHistogram-2.1.9.jar;../../lib/common/hppc-0.7.1.jar;../../lib/common/httpclient-4.5.10.jar;../../lib/common/httpcore-4.4.12.jar;../../lib/common/j2objc-annotations-1.3.jar;../../lib/common/jackson-annotations-2.10.1.jar;../../lib/common/jackson-core-2.10.1.jar;../../lib/common/jackson-databind-2.10.1.jar;../../lib/common/jackson-dataformat-cbor-2.8.11.jar;../../lib/common/jackson-dataformat-smile-2.8.11.jar;../../lib/common/jackson-dataformat-yaml-2.8.11.jar;../../lib/common/java-saml-2.5.0.jar;../../lib/common/java-saml-core-2.5.0.jar;../../lib/common/javax.mail-1.5.6.jar;../../lib/common/jbcrypt-0.4.jar;../../lib/common/jjwt-api-0.10.7.jar;../../lib/common/jjwt-impl-0.10.7.jar;../../lib/common/jjwt-jackson-0.10.7.jar;../../lib/common/jna-4.5.1.jar;../../lib/common/joda-time-2.10.3.jar;../../lib/common/jopt-simple-5.0.2.jar;../../lib/common/jsr305-3.0.2.jar;../../lib/common/jul-to-slf4j-1.7.28.jar;../../lib/common/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;../../lib/common/log4j-api-2.8.2.jar;../../lib/common/log4j-to-slf4j-2.8.2.jar;../../lib/common/logback-access-1.2.3.jar;../../lib/common/logback-classic-1.2.3.jar;../../lib/common/logback-core-1.2.3.jar;../../lib/common/lucene-analyzers-common-7.7.2.jar;../../lib/common/lucene-backward-codecs-7.7.2.jar;../../lib/common/lucene-core-7.7.2.jar;../../lib/common/lucene-grouping-7.7.2.jar;../../lib/common/lucene-highlighter-7.7.2.jar;../../lib/common/lucene-join-7.7.2.jar;../../lib/common/lucene-memory-7.7.2.jar;../../lib/common/lucene-misc-7.7.2.jar;../../lib/common/lucene-queries-7.7.2.jar;../../lib/common/lucene-queryparser-7.7.2.jar;../../lib/common/lucene-sandbox-7.7.2.jar;../../lib/common/lucene-spatial-7.7.2.jar;../../lib/common/lucene-spatial-extras-7.7.2.jar;../../lib/common/lucene-spatial3d-7.7.2.jar;../../lib/common/lucene-suggest-7.7.2.jar;../../lib/common/lz4-1.3.0.jar;../../lib/common/mybatis-3.5.3.jar;../../lib/common/nanohttpd-2.3.0.jar;../../lib/common/netty-buffer-4.1.32.Final.jar;../../lib/common/netty-codec-4.1.32.Final.jar;../../lib/common/netty-codec-http-4.1.32.Final.jar;../../lib/common/netty-common-4.1.32.Final.jar;../../lib/common/netty-handler-4.1.32.Final.jar;../../lib/common/netty-resolver-4.1.32.Final.jar;../../lib/common/netty-transport-4.1.32.Final.jar;../../lib/common/okhttp-3.14.2.jar;../../lib/common/okio-1.17.2.jar;../../lib/common/parent-join-client-6.8.4.jar;../../lib/common/percolator-client-6.8.4.jar;../../lib/common/picocontainer-2.15.jar;../../lib/common/protobuf-java-3.10.0.jar;../../lib/common/scribejava-apis-6.8.1.jar;../../lib/common/scribejava-core-6.8.1.jar;../../lib/common/slf4j-api-1.7.28.jar;../../lib/common/snakeyaml-1.25.jar;../../lib/common/sonar-auth-common-8.2.0.32929.jar;../../lib/common/sonar-auth-github-8.2.0.32929.jar;../../lib/common/sonar-auth-gitlab-8.2.0.32929.jar;../../lib/common/sonar-auth-ldap-8.2.0.32929.jar;../../lib/common/sonar-auth-saml-8.2.0.32929.jar;../../lib/common/sonar-ce-8.2.0.32929.jar;../../lib/common/sonar-ce-common-8.2.0.32929.jar;../../lib/common/sonar-ce-task-8.2.0.32929.jar;../../lib/common/sonar-ce-task-projectanalysis-8.2.0.32929.jar;../../lib/common/sonar-channel-4.1.jar;../../lib/common/sonar-classloader-1.0.jar;../../lib/common/sonar-core-8.2.0.32929.jar;../../lib/common/sonar-db-core-8.2.0.32929.jar;../../lib/common/sonar-db-dao-8.2.0.32929.jar;../../lib/common/sonar-db-migration-8.2.0.32929.jar;../../lib/common/sonar-duplications-8.2.0.32929.jar;../../lib/common/sonar-main-8.2.0.32929.jar;../../lib/common/sonar-markdown-8.2.0.32929.jar;../../lib/common/sonar-plugin-api-8.2.0.32929-all.jar;../../lib/common/sonar-plugin-api-impl-8.2.0.32929.jar;../../lib/common/sonar-process-8.2.0.32929.jar;../../lib/common/sonar-scanner-protocol-8.2.0.32929.jar;../../lib/common/sonar-server-common-8.2.0.32929.jar;../../lib/common/sonar-update-center-common-1.23.0.723.jar;../../lib/common/sonar-webserver-8.2.0.32929.jar;../../lib/common/sonar-webserver-api-8.2.0.32929.jar;../../lib/common/sonar-webserver-auth-8.2.0.32929.jar;../../lib/common/sonar-webserver-core-8.2.0.32929.jar;../../lib/common/sonar-webserver-es-8.2.0.32929.jar;../../lib/common/sonar-webserver-webapi-8.2.0.32929.jar;../../lib/common/sonar-webserver-ws-8.2.0.32929.jar;../../lib/common/sonar-ws-8.2.0.32929.jar;../../lib/common/stax2-api-3.1.4.jar;../../lib/common/staxmate-2.0.1.jar;../../lib/common/t-digest-3.2.jar;../../lib/common/tomcat-annotations-api-8.5.41.jar;../../lib/common/tomcat-embed-core-8.5.41.jar;../../lib/common/transport-6.8.4.jar;../../lib/common/transport-netty4-client-6.8.4.jar;../../lib/common/woodstox-core-5.0.3.jar;../../lib/common/woodstox-core-lgpl-4.4.0.jar;../../lib/common/xmlsec-2.1.4.jar;../../lib/sonar-application-8.2.0.32929.jar;../../lib/sonar-shutdowner-8.2.0.32929.jar" -Dwrapper.key="Uh3izfOXMN2zVvb5" -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.pid=12248 -Dwrapper.version="3.2.3" -Dwrapper.native_library="wrapper" -Dwrapper.cpu.timeout="10" -Dwrapper.jvmid=1 org.tanukisoftware.wrapper.WrapperSimpleApp org.sonar.application.App
+Critical error: wait for JVM process failed
+OpenSCManager failed - Acesso negado. (0x5)
+Starting the SonarQube service...
+Unable to start the service - O sistema não pode encontrar o arquivo especificado. (0x2)
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.09 11:38:52 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.09 11:38:52 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.09 11:38:52 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+2020.03.09 11:38:52 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.09 11:38:53 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.09 11:38:53 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.09 11:39:14 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.03.09 11:39:14 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process9702877291363959451properties
+2020.03.09 11:40:10 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.03.09 11:40:10 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process629565060755233914properties
+2020.03.09 11:40:15 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.03.09 11:40:15 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+ERROR: Another instance of the SonarQube application is already running.
+ERROR: Another instance of the SonarQube application is already running.
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.13 15:15:19 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.13 15:15:20 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.13 15:15:20 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.13 15:15:20 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2020.03.13 15:15:22 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.13 15:15:22 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.13 15:15:46 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.03.13 15:15:46 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process6569336960369611131properties
+2020.03.13 15:16:07 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.03.13 15:16:07 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process11477988419558119287properties
+2020.03.13 15:16:12 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.03.13 15:16:12 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+The timer fell behind the system clock by 226744700ms.
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+OpenSCManager failed - Acesso negado. (0x5)
+OpenSCManager failed - Acesso negado. (0x5)
+CreateService failed - O serviço especificado já existe. (0x431)
+OpenSCManager failed - Acesso negado. (0x5)
+SonarQube removed.
+SonarQube installed.
+--> Wrapper Started as Service
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+OpenSCManager failed - Acesso negado. (0x5)
+Starting the SonarQube service...
+--> Wrapper Started as Service
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+The SonarQube service was launched, but failed to start.
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+OpenSCManager failed - Acesso negado. (0x5)
+Starting the SonarQube service...
+--> Wrapper Started as Service
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+The SonarQube service was launched, but failed to start.
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.16 14:16:26 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.16 14:16:26 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.16 14:16:26 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+2020.03.16 14:16:26 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.16 14:16:28 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.16 14:16:28 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+Starting the SonarQube service...
+--> Wrapper Started as Service
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+
+WARNING - Unable to load the Wrapper's native library 'wrapper.dll'.
+          The file is located on the path at the following location but
+          could not be loaded:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\.\lib\wrapper.dll
+          Please verify that the file is readable by the current user
+          and that the file has not been corrupted in any way.
+          One common cause of this problem is running a 32-bit version
+          of the Wrapper with a 64-bit version of Java, or vica versa.
+          This is a 32-bit JVM.
+          Reported cause:
+            C:\SonarQube\sonarqube-8.2.0.32929\bin\windows-x86-64\lib\wrapper.dll: Can't load AMD 64-bit .dll on a IA 32-bit platform
+          System signals will not be handled correctly.
+
+
+WrapperSimpleApp: Encountered an error running main: java.lang.IllegalStateException: SonarQube requires Java 11 to run
+java.lang.IllegalStateException: SonarQube requires Java 11 to run
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:508)
+	at org.sonar.application.App.checkJavaVersion(App.java:94)
+	at org.sonar.application.App.start(App.java:57)
+	at org.sonar.application.App.main(App.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.tanukisoftware.wrapper.WrapperSimpleApp.run(WrapperSimpleApp.java:240)
+	at java.lang.Thread.run(Unknown Source)
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.16 14:18:00 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.16 14:18:00 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.16 14:18:00 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+2020.03.16 14:18:00 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.16 14:18:01 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.16 14:18:01 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.16 14:18:03 WARN  app[][o.s.a.p.AbstractManagedProcess] Process exited with exit value [es]: 1
+2020.03.16 14:18:03 INFO  app[][o.s.a.SchedulerImpl] Process[es] is stopped
+2020.03.16 14:18:03 INFO  app[][o.s.a.SchedulerImpl] SonarQube is stopped
+2020.03.16 14:18:03 INFO  app[][o.e.c.t.TransportClientNodesService] failed to get node info for {#transport#-1}{vFyTGy2ZRbqgLCaoar4KWw}{127.0.0.1}{127.0.0.1:9001}, disconnecting...
+java.lang.IllegalStateException: Future got interrupted
+	at org.elasticsearch.common.util.concurrent.FutureUtils.get(FutureUtils.java:60)
+	at org.elasticsearch.action.support.AdapterActionFuture.actionGet(AdapterActionFuture.java:34)
+	at org.elasticsearch.transport.ConnectionManager.internalOpenConnection(ConnectionManager.java:209)
+	at org.elasticsearch.transport.ConnectionManager.openConnection(ConnectionManager.java:80)
+	at org.elasticsearch.transport.TransportService.openConnection(TransportService.java:367)
+	at org.elasticsearch.client.transport.TransportClientNodesService$SimpleNodeSampler.doSample(TransportClientNodesService.java:411)
+	at org.elasticsearch.client.transport.TransportClientNodesService$NodeSampler.sample(TransportClientNodesService.java:362)
+	at org.elasticsearch.client.transport.TransportClientNodesService.addTransportAddresses(TransportClientNodesService.java:201)
+	at org.elasticsearch.client.transport.TransportClient.addTransportAddress(TransportClient.java:342)
+	at org.sonar.application.es.EsConnectorImpl$MinimalTransportClient.<init>(EsConnectorImpl.java:108)
+	at org.sonar.application.es.EsConnectorImpl.buildTransportClient(EsConnectorImpl.java:89)
+	at org.sonar.application.es.EsConnectorImpl.getTransportClient(EsConnectorImpl.java:74)
+	at org.sonar.application.es.EsConnectorImpl.getClusterHealthStatus(EsConnectorImpl.java:61)
+	at org.sonar.application.process.EsManagedProcess.checkStatus(EsManagedProcess.java:88)
+	at org.sonar.application.process.EsManagedProcess.checkOperational(EsManagedProcess.java:73)
+	at org.sonar.application.process.EsManagedProcess.isOperational(EsManagedProcess.java:58)
+	at org.sonar.application.process.ManagedProcessHandler.refreshState(ManagedProcessHandler.java:220)
+	at org.sonar.application.process.ManagedProcessHandler$EventWatcher.run(ManagedProcessHandler.java:285)
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1343)
+	at org.elasticsearch.common.util.concurrent.BaseFuture$Sync.get(BaseFuture.java:251)
+	at org.elasticsearch.common.util.concurrent.BaseFuture.get(BaseFuture.java:94)
+	at org.elasticsearch.common.util.concurrent.FutureUtils.get(FutureUtils.java:57)
+	... 17 common frames omitted
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.16 14:18:19 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.16 14:18:19 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.16 14:18:20 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+2020.03.16 14:18:20 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.16 14:18:20 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.16 14:18:20 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.16 14:18:22 WARN  app[][o.s.a.p.AbstractManagedProcess] Process exited with exit value [es]: 1
+2020.03.16 14:18:22 INFO  app[][o.s.a.SchedulerImpl] Process[es] is stopped
+2020.03.16 14:18:22 INFO  app[][o.s.a.SchedulerImpl] SonarQube is stopped
+2020.03.16 14:18:22 INFO  app[][o.e.c.t.TransportClientNodesService] failed to get node info for {#transport#-1}{lNjAM1O8TxSpbX9J2tiGCw}{127.0.0.1}{127.0.0.1:9001}, disconnecting...
+java.lang.IllegalStateException: Future got interrupted
+	at org.elasticsearch.common.util.concurrent.FutureUtils.get(FutureUtils.java:60)
+	at org.elasticsearch.action.support.AdapterActionFuture.actionGet(AdapterActionFuture.java:34)
+	at org.elasticsearch.transport.ConnectionManager.internalOpenConnection(ConnectionManager.java:209)
+	at org.elasticsearch.transport.ConnectionManager.openConnection(ConnectionManager.java:80)
+	at org.elasticsearch.transport.TransportService.openConnection(TransportService.java:367)
+	at org.elasticsearch.client.transport.TransportClientNodesService$SimpleNodeSampler.doSample(TransportClientNodesService.java:411)
+	at org.elasticsearch.client.transport.TransportClientNodesService$NodeSampler.sample(TransportClientNodesService.java:362)
+	at org.elasticsearch.client.transport.TransportClientNodesService.addTransportAddresses(TransportClientNodesService.java:201)
+	at org.elasticsearch.client.transport.TransportClient.addTransportAddress(TransportClient.java:342)
+	at org.sonar.application.es.EsConnectorImpl$MinimalTransportClient.<init>(EsConnectorImpl.java:108)
+	at org.sonar.application.es.EsConnectorImpl.buildTransportClient(EsConnectorImpl.java:89)
+	at org.sonar.application.es.EsConnectorImpl.getTransportClient(EsConnectorImpl.java:74)
+	at org.sonar.application.es.EsConnectorImpl.getClusterHealthStatus(EsConnectorImpl.java:61)
+	at org.sonar.application.process.EsManagedProcess.checkStatus(EsManagedProcess.java:88)
+	at org.sonar.application.process.EsManagedProcess.checkOperational(EsManagedProcess.java:73)
+	at org.sonar.application.process.EsManagedProcess.isOperational(EsManagedProcess.java:58)
+	at org.sonar.application.process.ManagedProcessHandler.refreshState(ManagedProcessHandler.java:220)
+	at org.sonar.application.process.ManagedProcessHandler$EventWatcher.run(ManagedProcessHandler.java:285)
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1343)
+	at org.elasticsearch.common.util.concurrent.BaseFuture$Sync.get(BaseFuture.java:251)
+	at org.elasticsearch.common.util.concurrent.BaseFuture.get(BaseFuture.java:94)
+	at org.elasticsearch.common.util.concurrent.FutureUtils.get(FutureUtils.java:57)
+	... 17 common frames omitted
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.16 14:18:40 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.16 14:18:40 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.16 14:18:40 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+2020.03.16 14:18:40 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.16 14:18:40 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.16 14:18:40 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.16 14:18:42 WARN  app[][o.s.a.p.AbstractManagedProcess] Process exited with exit value [es]: 1
+2020.03.16 14:18:42 INFO  app[][o.s.a.SchedulerImpl] Process[es] is stopped
+2020.03.16 14:18:42 INFO  app[][o.s.a.SchedulerImpl] SonarQube is stopped
+2020.03.16 14:18:42 INFO  app[][o.e.c.t.TransportClientNodesService] failed to get node info for {#transport#-1}{ahpb9Sv_RlGqeTSg8SfDQA}{127.0.0.1}{127.0.0.1:9001}, disconnecting...
+java.lang.IllegalStateException: Future got interrupted
+	at org.elasticsearch.common.util.concurrent.FutureUtils.get(FutureUtils.java:60)
+	at org.elasticsearch.action.support.AdapterActionFuture.actionGet(AdapterActionFuture.java:34)
+	at org.elasticsearch.transport.ConnectionManager.internalOpenConnection(ConnectionManager.java:209)
+	at org.elasticsearch.transport.ConnectionManager.openConnection(ConnectionManager.java:80)
+	at org.elasticsearch.transport.TransportService.openConnection(TransportService.java:367)
+	at org.elasticsearch.client.transport.TransportClientNodesService$SimpleNodeSampler.doSample(TransportClientNodesService.java:411)
+	at org.elasticsearch.client.transport.TransportClientNodesService$NodeSampler.sample(TransportClientNodesService.java:362)
+	at org.elasticsearch.client.transport.TransportClientNodesService.addTransportAddresses(TransportClientNodesService.java:201)
+	at org.elasticsearch.client.transport.TransportClient.addTransportAddress(TransportClient.java:342)
+	at org.sonar.application.es.EsConnectorImpl$MinimalTransportClient.<init>(EsConnectorImpl.java:108)
+	at org.sonar.application.es.EsConnectorImpl.buildTransportClient(EsConnectorImpl.java:89)
+	at org.sonar.application.es.EsConnectorImpl.getTransportClient(EsConnectorImpl.java:74)
+	at org.sonar.application.es.EsConnectorImpl.getClusterHealthStatus(EsConnectorImpl.java:61)
+	at org.sonar.application.process.EsManagedProcess.checkStatus(EsManagedProcess.java:88)
+	at org.sonar.application.process.EsManagedProcess.checkOperational(EsManagedProcess.java:73)
+	at org.sonar.application.process.EsManagedProcess.isOperational(EsManagedProcess.java:58)
+	at org.sonar.application.process.ManagedProcessHandler.refreshState(ManagedProcessHandler.java:220)
+	at org.sonar.application.process.ManagedProcessHandler$EventWatcher.run(ManagedProcessHandler.java:285)
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1343)
+	at org.elasticsearch.common.util.concurrent.BaseFuture$Sync.get(BaseFuture.java:251)
+	at org.elasticsearch.common.util.concurrent.BaseFuture.get(BaseFuture.java:94)
+	at org.elasticsearch.common.util.concurrent.FutureUtils.get(FutureUtils.java:57)
+	... 17 common frames omitted
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.16 14:27:03 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.16 14:27:03 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.16 14:27:03 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+2020.03.16 14:27:04 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.16 14:27:06 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.16 14:27:06 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.16 14:27:36 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.03.16 14:27:36 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process1260288359634556124properties
+2020.03.16 14:27:59 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.03.16 14:27:59 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process17903913288925279034properties
+2020.03.16 14:28:05 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.03.16 14:28:05 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.03.26 10:10:49 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.03.26 10:10:49 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.03.26 10:10:49 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.03.26 10:10:50 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2020.03.26 10:10:54 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.03.26 10:10:54 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.03.26 10:11:25 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.03.26 10:11:25 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process9714879927961053351properties
+2020.03.26 10:11:51 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.03.26 10:11:51 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process12416727775247642734properties
+2020.03.26 10:11:58 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.03.26 10:11:58 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                                                                                                                                                                                                                                            --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                    --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                                                                                                                                                                                                                                            --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                                                                                                                                                                                                                                            --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                                                                                                                                                                                                                                                                                                                                                                                                                --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                                                                                                                                                                                                                                                                                                --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+                                                    --> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.04.14 17:13:32 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.04.14 17:13:32 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.04.14 17:13:32 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.04.14 17:13:32 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2020.04.14 17:13:35 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.04.14 17:13:35 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.04.14 17:14:00 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.04.14 17:14:00 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process7411084286130645130properties
+2020.04.14 17:14:23 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.04.14 17:14:23 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process1549894791867971145properties
+2020.04.14 17:14:29 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.04.14 17:14:29 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.04.23 12:00:12 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.04.23 12:00:12 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.04.23 12:00:13 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.04.23 12:00:13 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2020.04.23 12:00:17 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.04.23 12:00:17 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.04.23 12:00:52 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.04.23 12:00:52 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process16519030625706683692properties
+2020.04.23 12:01:20 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.04.23 12:01:20 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process17420483849969385565properties
+2020.04.23 12:01:26 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.04.23 12:01:26 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.04.27 15:44:35 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.04.27 15:44:36 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.04.27 15:44:37 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.04.27 15:44:38 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2020.04.27 15:44:45 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.04.27 15:44:45 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.04.27 15:45:23 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.04.27 15:45:23 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process14451807380630989953properties
+2020.04.27 15:46:18 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.04.27 15:46:18 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process4186619471963095778properties
+2020.04.27 15:46:24 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.04.27 15:46:24 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2020.06.15 14:34:36 INFO  app[][o.s.a.AppFileSystem] Cleaning or creating temp directory C:\SonarQube\sonarqube-8.2.0.32929\temp
+2020.06.15 14:34:36 INFO  app[][o.s.a.es.EsSettings] Elasticsearch listening on /127.0.0.1:9001
+2020.06.15 14:34:37 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='es', ipcIndex=1, logFilenamePrefix=es]] from [C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch]: C:\Program Files\Java\jdk-11.0.6\bin\java -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -Des.networkaddress.cache.ttl=60 -Des.networkaddress.cache.negative.ttl=10 -XX:+AlwaysPreTouch -Xss1m -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djna.nosys=true -XX:-OmitStackTraceInFastThrow -Dio.netty.noUnsafe=true -Dio.netty.noKeySetOptimization=true -Dio.netty.recycler.maxCapacityPerThread=0 -Dlog4j.shutdownHookEnabled=false -Dlog4j2.disable.jmx=true -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp -XX:ErrorFile=../logs/es_hs_err_pid%p.log -Xmx512m -Xms512m -XX:+HeapDumpOnOutOfMemoryError -Delasticsearch -Des.path.home=C:\SonarQube\sonarqube-8.2.0.32929\elasticsearch -Des.path.conf=C:\SonarQube\sonarqube-8.2.0.32929\temp\conf\es -cp lib/* org.elasticsearch.bootstrap.Elasticsearch
+Java HotSpot(TM) 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020.06.15 14:34:37 INFO  app[][o.s.a.SchedulerImpl] Waiting for Elasticsearch to be up and running
+2020.06.15 14:34:39 INFO  app[][o.e.p.PluginsService] no modules loaded
+2020.06.15 14:34:39 INFO  app[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2020.06.15 14:35:09 INFO  app[][o.s.a.SchedulerImpl] Process[es] is up
+2020.06.15 14:35:09 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='web', ipcIndex=2, logFilenamePrefix=web]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.server.app.WebServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process1725268541629163104properties
+2020.06.15 14:35:38 INFO  app[][o.s.a.SchedulerImpl] Process[web] is up
+2020.06.15 14:35:38 INFO  app[][o.s.a.ProcessLauncherImpl] Launch process[[key='ce', ipcIndex=3, logFilenamePrefix=ce]] from [C:\SonarQube\sonarqube-8.2.0.32929]: C:\Program Files\Java\jdk-11.0.6\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.io.tmpdir=C:\SonarQube\sonarqube-8.2.0.32929\temp --add-opens=java.base/java.util=ALL-UNNAMED -Xmx512m -Xms128m -XX:+HeapDumpOnOutOfMemoryError -Dhttp.nonProxyHosts=localhost|127.*|[::1] -cp ./lib/common/*;C:\SonarQube\sonarqube-8.2.0.32929\lib\jdbc\h2\h2-1.4.199.jar org.sonar.ce.app.CeServer C:\SonarQube\sonarqube-8.2.0.32929\temp\sq-process15720163623551034507properties
+2020.06.15 14:35:47 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2020.06.15 14:35:47 INFO  app[][o.s.a.SchedulerImpl] SonarQube is up
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
+--> Wrapper Started as Service
+Launching a JVM...
+Startup failed: Timed out waiting for a signal from the JVM.
+JVM did not exit on request, terminated
+JVM Restarts disabled.  Shutting down.
+<-- Wrapper Stopped
